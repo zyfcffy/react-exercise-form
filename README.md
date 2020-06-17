@@ -1,7 +1,10 @@
-## Available Scripts
+## Scripts
 
-### `yarn install`
+### `npm install`
 Install dependencies
 
-### `yarn start`
+### `npm start`
 Start the app
+
+## 练习要求
+根据mockups里面的要求实现
