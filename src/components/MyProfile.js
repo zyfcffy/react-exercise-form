@@ -55,7 +55,7 @@ class MyProfile extends Component {
        </div>
         <div className="form-group">
         <input type="submit" className="btn btn-primary" value="Submit"
-        disabled = {this.state.name === '' || this.state.description === '' || this.state.isRead === false}></input>
+        disabled = {this.state.name === '' || this.state.description === '' || this.state.isRead !== true}></input>
         </div>
         </form>
       </div>
